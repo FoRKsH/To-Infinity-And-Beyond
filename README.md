@@ -145,5 +145,3 @@ https://www.educative.io/blog/solid-principles-oop-c-sharp#what
 ### Relevant Books
 * cracking the coding interview
 * cracking the system design interview
-
-### Fuck Omar Akram Section
